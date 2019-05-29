@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.0.2](https://github.com/USSBA/gov-delivery-node/tree/v0.0.2) (2019-04-22)
+
+**Changed**
+
+* Increase timeout threshold for `axios` request
+
 ## [v0.0.1](https://github.com/USSBA/gov-delivery-node/tree/v0.0.1) (2019-04-22)
 
 **Added**
