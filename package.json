@@ -1,8 +1,8 @@
 {
   "name": "gov-delivery-node",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
-    "node": ">= 8.10.0"
+    "node": ">= 12.0.0"
   },
   "description": "Node.js client for GovDelivery APIs",
   "main": "./lib",
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/USSBA/gov-delivery-node#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "lodash.isplainobject": "^4.0.6",
     "lodash.isstring": "^4.0.1",
     "xml-js": "^1.6.11"
